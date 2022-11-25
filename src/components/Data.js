@@ -113,13 +113,14 @@ export const Skills = [
 export const Projects = [
     {title:"Event Management Portal",img:"/images/portfolio/aicte.png",desc:`A portal to manage events and workshops organised by AICTE. It has user friendly interface, mass mailer and event-driven microservices architecture.`},
     {title:"My Shop",img:"/images/portfolio/myshop.png",desc:`An e-commerce website built using Django and Bootstrap. It has user friendly responsive interface and has features like cart, wishlist, checkout.`},
+    {title:"Airbnb Clone",img:"/images/portfolio/airbnb.png",desc:`A airbnb clone built using NextJS and Tailwind CSS. It has user friendly responsive interface and has features like search, filter, map, booking.`},
 ]
 
 export const Courses = [
-    {img:"/images/certificate.png",course:"Algorithms & Datastructure Specialization (6 courses)",source:"Coursera"},
-    {img:"/images/certificate.png",course:"Full Stack Web developer Bootcamp (Beginner + Advance)",source:"Udemy"},
-    {img:"/images/certificate.png",course:"Python 3 core and advance",source:"Udemy"},
-    {img:"/images/certificate.png",course:"Responsive Website Development and Design Specialization",source:"Coursera"},
-    {img:"/images/certificate.png",course:"Open Source Software Development, Linux, Git Specialization",source:"Coursera"},
-    {img:"/images/certificate.png",course:"Full Stack Web Development with Django",source:"Udemy"}
+    {img:"/images/certificate.png",course:"Master the Coding Interview: Data Structures + Algorithms)",source:"Udemy"},
+    {img:"/images/certificate.png",course:"MERN Stack Front To Back: Full Stack React, Redux & Node.js",source:"Udemy"},
+    {img:"/images/certificate.png",course:"RESTful Microservices Using Node.js and Express Specialization",source:"Coursera"},
+    // {img:"/images/certificate.png",course:"Responsive Website Development and Design Specialization",source:"Coursera"},
+    // {img:"/images/certificate.png",course:"Open Source Software Development, Linux, Git Specialization",source:"Coursera"},
+    // {img:"/images/certificate.png",course:"Full Stack Web Development with Django",source:"Udemy"}
 ]
